@@ -5,11 +5,11 @@ Note that, in order to obtain an optimal defect testing for these types of produ
 
 Below I report some segmentation examples, I do not report the trained models nor the dataset however, since those doesn't belong to me.
 
-* Fully Convolutional NN
+## Fully Convolutional NN
 ![alt text](https://github.com/RepresentativeOnMission/Segmentation-models-for-steel-sections/blob/main/images/246_FCN_8.png?raw=true)
 
-* PSPNet
+## PSPNet
 ![alt text](https://github.com/RepresentativeOnMission/Segmentation-models-for-steel-sections/blob/main/images/305_pspnet.png?raw=true)
 
-* UNet
+## UNet
 ![alt text](https://github.com/RepresentativeOnMission/Segmentation-models-for-steel-sections/blob/main/images/305_unet.png?raw=true)
