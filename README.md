@@ -4,3 +4,5 @@ The models shown here are Convolutional-based segmentation models that I have us
 Note that, in order to obtain an optimal defect testing for these types of products, it is better to aggregate the data obtained by this model, with data coming from sensors during the production of the steel column itself.
 
 Below I report some segmentation examples, I do not report the trained models nor the dataset however, since those doesn't belong to me.
+
+![alt text](https://github.com/RepresentativeOnMission/Segmentation-models-for-steel-sections/blob/main/images/246_FCN_8.png?raw=true)
